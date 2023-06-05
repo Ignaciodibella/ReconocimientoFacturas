@@ -1,5 +1,7 @@
 # ReconocimientoFacturas
 Red Neuronal para reconocimiento/lectura de facturas, remitos y tickets.
+<br>
+link al chat con ChatGPT: https://chat.openai.com/share/350624aa-02c8-4072-83f9-faaef4e8bd70
 
 ### Armar Base de Datos (csv):
 
