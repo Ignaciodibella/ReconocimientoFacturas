@@ -91,3 +91,5 @@ def create_text_model(vocab_size, embedding_dim, max_length):
     model.add(keras.layers.Dense(64, activation='relu'))
     return model
 ```
+
+##### Falta definir cómo tratar los descuentos!
